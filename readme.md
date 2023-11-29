@@ -20,5 +20,6 @@ This C program allows you to encrypt and decrypt text files using the Caesar and
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/file-encryption-c.git
+   git clone https://github.com/dhananjay19161/BreadcrumbsCaesar-Cipher-Encryptor-and-Decryptor
+.git
 
